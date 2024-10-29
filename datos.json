@@ -1,0 +1,123 @@
+[
+    {
+        "nombre": "Bloody Mary",
+        "precio": "$4.500",
+        "signo": "Visual",
+        "fotos": ["bloody-1.jpg","bloody-2.jpg","bloody-3.jpg"],
+        "github": "https://github.com/dyubow",
+        "desc": "Collar inspirado en el estilo horror GLAM. Imita la caída de sangre al costado del cuello.",
+        "foto": ["bloody-1.jpg"]
+    },
+    
+
+    {
+        "nombre": "Howl's Moving Castle",
+        "precio": "$4.500",
+        "signo": "Visual",
+        "fotos": ["howl-1.jpg","howl-2.jpg","howl-3.jpg"],
+        "github": "https://github.com/dyubow",
+        "desc": "Serie de collares inspirados en la película Howl's Moving Castle. Cada collar se inspira en una paleta de colores distinta a partir de escenas de la película.",
+        "foto": ["howl-0.jpg"]
+    },
+    
+    {
+        "nombre": "Matching Set",
+        "precio": "$5.000",
+        "signo": "Visual",
+        "fotos": ["match-1.jpg","match-2.jpg","match-3.jpg"],
+        "github": "https://github.com/dyubow",
+        "desc": "Matching set de dos collares, especial para San Valentín. Cada collar posee un imán para unirse.",
+        "foto": ["match-1.jpg"]
+    },
+    
+    {
+        "nombre": "Pearly Heart",
+        "precio": "$4.000",
+        "signo": "Visual",
+        "fotos": ["pearly-1.jpg","pearly-2.jpg","pearly-3.jpg"],
+        "github": "https://github.com/dyubow",
+        "desc": "Collar de perlas, con detalles alternativos como alfileres y corazones.",
+        "foto": ["pearly-1.jpg"]
+    },
+
+    {
+        "nombre": "OMG",
+        "precio": "$5.000",
+        "signo": "Visual",
+        "fotos": ["omg-1.jpg","omg-2.jpg","omg-3.jpg"],
+        "github": "https://github.com/dyubow",
+        "desc": "Collar inspirado en el lanzamiento OMG del grupo New Jeans. Estilo maximalista y extravagante, combina distintos tipos de cadenas y colores.",
+        "foto": ["omg-1.jpg"]
+    },
+
+    {
+        "nombre": "Color POP",
+        "precio": "$3.500",
+        "signo": "Visual",
+        "fotos": ["pop-1.jpg","pop-2.jpg","pop-3.jpg"],
+        "github": "https://github.com/dyubow",
+        "desc": "Collar de perlas de colores y traslucidas, perfecto para agregar color a tus atuendos.",
+        "foto": ["pop-1.jpg"]
+    },
+
+    {
+        "nombre": "Rojo&Negro",
+        "precio": "$4.500",
+        "signo": "Visual",
+        "fotos": ["rojo-1.jpg","rojo-2.jpg","rojo-3.jpg"],
+        "github": "https://github.com/dyubow",
+        "desc": "Collar estilo chocker, inspirado en el estilo punk.",
+        "foto": ["rojo-1.jpg"]
+    },
+
+    {
+        "nombre": "Killer Queen",
+        "precio": "$5.000",
+        "signo": "Visual",
+        "fotos": ["killer-1.jpg","killer-2.jpg","killer-3.jpg"],
+        "github": "https://github.com/dyubow",
+        "desc": "Collar estilo chocker, inspirado en el estilo punk, más oscuro. Se le agrega peso con las cadenas. PEDIDO ESPECIAL.",
+        "foto": ["killer-1.jpg"]
+    },
+
+    {
+        "nombre": "Golden Heart",
+        "precio": "$5.000",
+        "signo": "Visual",
+        "fotos": ["golden-1.jpg","golden-2.jpg","golden-3.jpg"],
+        "github": "https://github.com/dyubow",
+        "desc": "Collar de perlas, con cadena extra entrelazada para agregar detalles.",
+        "foto": ["golden-1.jpg"]
+    },
+
+    {
+        "nombre": "Matching Set",
+        "precio": "$5.000",
+        "signo": "Visual",
+        "fotos": ["match-1.jpg","match-2.jpg","match-3.jpg"],
+        "github": "https://github.com/dyubow",
+        "desc": "Matching set de dos collares, especial para San Valentín. Cada collar posee un imán para unirse.",
+        "foto": ["match-1.jpg"]
+    },
+
+    {
+        "nombre": "Lluvia de perlas",
+        "precio": "$5.000",
+        "signo": "Visual",
+        "fotos": ["perlas-1.jpg","perlas-2.jpg","perlas-3.jpg"],
+        "github": "https://github.com/dyubow",
+        "desc": "Collar de perlas con gotas colgantes. PEDIDO ESPECIAL",
+        "foto": ["perlas-1.jpg"]
+    },
+
+    {
+        "nombre": "Rococó",
+        "precio": "$3.500",
+        "signo": "Visual",
+        "fotos": ["rococo-1.jpg","rococo-2.jpg","rococo-3.jpg"],
+        "github": "https://github.com/dyubow",
+        "desc": "Collares de perlas inspirados en el estilo Rococó, pero minimalistas.",
+        "foto": ["rococo-1.jpg"]
+    }
+
+    ]
