@@ -94,10 +94,10 @@
         "nombre": "Frutilla Matcha",
         "precio": "$3.000",
         "signo": "colores",
-        "fotos": ["match-1.jpg","match-2.jpg","match-3.jpg"],
+        "fotos": ["matcha-1.jpg","matcha-2.jpg","matcha-3.jpg"],
         "github": "https://github.com/dyubow",
         "desc": "Collar inspirado en la combinación Matcha Frutilla, toma los colores pasteles.",
-        "foto": ["match-1.jpg"]
+        "foto": ["matcha-1.jpg"]
     },
 
     {
